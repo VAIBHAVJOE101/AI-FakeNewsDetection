@@ -1,4 +1,4 @@
- Fake News Detection
+# **Fake News Detection**
 ## **Overview**
 ---
 Nowadays social-networking systems, online news portals, and other online media have become the main sources of news through which interesting and breaking news are shared at a rapid pace. However, many news portals serve special interest by feeding with distorted, partially correct, and sometimes imaginary news that is likely to attract the attention of a target group of people. Fake
