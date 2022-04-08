@@ -11,7 +11,7 @@ The Aim of this projects is to use  Machine learning  to detect the Fake news ba
 Dataset that used in this project are collected from Kaggle (https://www.kaggle.com/).
 https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 
-There are two files, one for real news and one for fake news with a total of 23481 "fake" tweets and 21417 "real" articles.
+There are two files, one for real news and one for fake news with a total of 23481 "fake" articles and 21417 "real" articles.
 
 ## **Data preprocessing**
 ---
